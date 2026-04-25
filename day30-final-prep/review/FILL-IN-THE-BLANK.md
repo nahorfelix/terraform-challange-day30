@@ -25,29 +25,29 @@ Write answers from memory first, then verify.
 
 ## My Answers
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
+1. fmt
+2. prevent_destroy
+3. workspace
+4. encrypt
+5. set
+6. rm
+7. 3.0
+8. existing / managed
+9. .terraform.lock.hcl
+10. myplan.tfplan
+11. list
+12. select
+13. -destroy
+14. validate
+15. replace
+16. tfvars
+17. myplan.tfplan
+18. graph
+19. attribute names
+20. init
 
 ## Verification Notes
 
-- Incorrect:
-- Uncertain:
-- Quick corrections:
+- Incorrect: 0
+- Uncertain: 0
+- Quick corrections: None required for first 10; reinforced Q11-Q20 syntax with quick CLI recap.

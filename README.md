@@ -15,3 +15,9 @@ Day 30 is the final preparation day: final simulated exam, fill-in-the-blank pre
 3. Answer final readiness questions (cold, no notes).
 4. Confirm exam-day logistics checklist.
 5. Write final 30-day reflection and submission.
+
+## Final Results Snapshot
+
+- Exam 5: `55/57 (96%)`
+- Five-exam trend: `82% -> 89% -> 95% -> 96% -> 96%`
+- Readiness: `Ready`
